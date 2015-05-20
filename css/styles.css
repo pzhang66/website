@@ -93,64 +93,27 @@ table {
 }
 
 #mainContent {
-	padding: 30px 110px;
+	padding: 30px 103px;
+}
+
+#mainContent ul li {
+	float: left;
+}
+
+img {
+    vertical-align: middle;
 }
 
 #bigbox {
-	float: left;
-	margin-right: 15px;
-	height: 480px;
-	width: 515px;
+	margin: 7px;
+	height: 478px;
+	width: 514px;
 }
 
 .box {
 	width: 250px;
 	height: 232px;
-}
-
-#box1 {
-	float: left;
-	margin-bottom: 15px;
-}
-
-#box2 {
-	float: left;
-}
-
-#row2 {
-	margin-top: 15px;
-}
-
-#box3 {
-	float: left;
-	margin-right: 15px;
-}
-
-#box4 {
-	float: left;
-	margin-right: 15px;
-}
-
-#box5 {
-	float: left;
-}
-
-#row3 {
-	margin-top: 15px;
-}
-
-#box6 {
-	float: left;
-	margin-right: 15px;
-}
-
-#box7 {
-	float: left;
-	margin-right: 15px;
-}
-
-#box8 {
-	float: left;
+	margin: 7px;
 }
 
 #footer {
