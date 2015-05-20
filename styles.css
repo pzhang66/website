@@ -59,7 +59,7 @@ table {
 }
 
 #header div:first-child {
-	padding: 15px 15px 15px 50px;
+	padding: 15px 15px 15px 35px;
 	float: left;
 }
 
@@ -77,8 +77,8 @@ table {
 
 #header div:nth-child(3) {
 	float: left;
-	padding: 33px 0;
-	margin-left: 580px;
+	padding: 33px 5px 33px 0;;
+	margin-left: 605px;
 }
 
 #header_text2 {
@@ -89,7 +89,7 @@ table {
 
 #header div:nth-child(4) {
 	float: right;
-	padding: 32px 50px 0 2px;
+	padding: 32px 35px 0 2px;
 }
 
 #mainContent {
@@ -100,18 +100,37 @@ table {
 	float: left;
 	margin-right: 15px;
 	height: 480px;
-	width: 500px;
+	width: 515px;
+}
+
+.box {
+	width: 250px;
+	height: 232px;
 }
 
 #box1 {
 	float: left;
 	margin-bottom: 15px;
-	height: 232px;
-	width: 250px;
 }
 
 #box2 {
 	float: left;
-	height: 232px;
-	width: 250px;
+}
+
+#row2 {
+	margin-top: 15px;
+}
+
+#box3 {
+	float: left;
+	margin-right: 15px;
+}
+
+#box4 {
+	float: left;
+		margin-right: 15px;
+}
+
+#box5 {
+	float: left;
 }
