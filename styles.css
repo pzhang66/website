@@ -128,9 +128,27 @@ table {
 
 #box4 {
 	float: left;
-		margin-right: 15px;
+	margin-right: 15px;
 }
 
 #box5 {
+	float: left;
+}
+
+#row3 {
+	margin-top: 15px;
+}
+
+#box6 {
+	float: left;
+	margin-right: 15px;
+}
+
+#box7 {
+	float: left;
+	margin-right: 15px;
+}
+
+#box8 {
 	float: left;
 }
