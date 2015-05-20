@@ -55,7 +55,7 @@ table {
 }
 
 #header {
-	border-bottom: 2px solid #D8D8D8;
+	border-bottom: 1px solid #D8D8D8;
 }
 
 #header div:first-child {
@@ -117,7 +117,7 @@ img {
 }
 
 #footer {
-	border-top: 2px solid #D8D8D8;
+	border-top: 1px solid #D8D8D8;
 	height: 83px;
 	font-family: sans-serif;
 	font-style: italic;
@@ -134,4 +134,3 @@ img {
 	float: right;
 	margin: 35px;
 }
-
