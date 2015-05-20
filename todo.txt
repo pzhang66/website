@@ -1,6 +1,2 @@
  use one UL tag and multiple LI tags to replace divs and rows
- put js and css assets into separate folders
- fix the Chrome display issue around the menu
- no longer required - make the images the same size (pixel precise)
  make the C 2014 to be dynamic - always correct no matter which year it is
- change the address, phone and email to your own, fake the address
