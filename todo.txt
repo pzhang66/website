@@ -1,2 +1,1 @@
- use one UL tag and multiple LI tags to replace divs and rows
- make the C 2014 to be dynamic - always correct no matter which year it is
+make the C 2014 to be dynamic - always correct no matter which year it is
