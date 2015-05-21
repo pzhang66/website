@@ -1,0 +1,1 @@
+ - check the original site out by resizing and reducing your browser width: you can see it is responsive; try to make your page responsive;
